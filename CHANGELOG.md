@@ -1,3 +1,5 @@
+## [v0.14.4](https://github.com/2pc/ndiag/compare/v0.14.3...v0.14.4) - 2023-06-26
+
 ## [v0.14.4](https://github.com/k1LoW/ndiag/compare/v0.14.3...v0.14.4) - 2022-11-04
 - Use octocov by @k1LoW in https://github.com/k1LoW/ndiag/pull/95
 - Bump up go and pkgs by @k1LoW in https://github.com/k1LoW/ndiag/pull/96
